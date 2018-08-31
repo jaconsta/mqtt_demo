@@ -1,3 +1,3 @@
-SERVER_IP = '192.168.0.14'
+SERVER_IP = '192.168.0.8'
 SERVER_PORT = 1883
-TOPIC='/test/topic'
+TOPIC ='test/topic'
